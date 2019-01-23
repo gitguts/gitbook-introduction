@@ -8,4 +8,7 @@ Naszym celem na dzisiejsze warsztaty jest:
 * dodanie plików i aktualizacja tzw. indeksu
 * stworzenie pierwszego commitu
 * stworzenie gałęzi (branch)
+* łączenie gałęzi i rozwiązywanie konfliktów
 * publikacja zmian w serwisie GitHub
+* przeglądanie i modyfikacja historii zmian
+* ...

@@ -3,6 +3,14 @@ h3#httpssmoczyskogitbooksiogit-guts-introductioncontent {
     text-align: center;
 }
 
+div[class*="prework"] {
+    max-width: 600px;
+}
+
+p {
+    text-align: justify;
+}
+
 .image-wrapper {
     max-width: 300px;
     width: 100%;
@@ -10,10 +18,12 @@ h3#httpssmoczyskogitbooksiogit-guts-introductioncontent {
     display: block;
 }
 
-div[class*="prework"] {
-    max-width: 600px;
+.image-wrapper.content-scm,
+.image-wrapper.content-files,
+.image-wrapper.content-reset {
+    max-width: 100%;
 }
 
-p {
-    text-align: justify;
+.image-wrapper.content-reset img {
+    min-width: 80%;
 }
